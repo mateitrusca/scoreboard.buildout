@@ -1,0 +1,15 @@
+*.pyc
+*.egg-info
+*.wpr
+.installed.cfg
+.mr.developer.cfg
+.picked_versions.cfg
+_eggmonkey.cache
+bin/
+develop-eggs/
+include/
+lib/
+parts/
+src
+src/
+var/
