@@ -9,7 +9,7 @@ Install
 
     $ git clone git@github.com:eaudeweb/scoreboard.buildout.git
     $ cd scoreboard.buildout
-    $ virtualenv2.6 .
+    $ virtualenv2.7 .
     $ source bin/activate
 
     $ bin/python boostrap.py -d -c devel.cfg
