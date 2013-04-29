@@ -5,6 +5,7 @@
 .mr.developer.cfg
 .picked_versions.cfg
 _eggmonkey.cache
+eggs
 bin/
 develop-eggs/
 include/
