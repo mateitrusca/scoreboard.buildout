@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./bin/develop rb
+chown -R scoreboard.scoreboard .
+su scoreboard
+./bin/instance stop
+./bin/instance start

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "WARNING!!! scriptul asta face doar restart"
+echo "daca vrei sa faci deploy ruleaza './deploy'"
+
+./bin/instance stop
+./bin/instance start
