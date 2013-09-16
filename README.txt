@@ -12,7 +12,7 @@ Install
     $ virtualenv2.7 .
     $ source bin/activate
 
-    $ bin/python boostrap.py -d -c devel.cfg
+    $ bin/python boostrap.py -d -c devel.cfg -v 1.7.1
     $ bin/buildout -c devel.cfg
 
 .. _zc.buildout: http://pypi.python.org/pypi/zc.buildout/1.7.1
